@@ -13,8 +13,8 @@ body {
   --secondary-text-color: #5c5c62;
   --durability-text-color: #6a737d9c;
   --icon-color: #6a737d;
-  --border-color: #ff9a0045;
-  --text-decoration-color: #ff9a00;
+  --border-color: #85557a;
+  --text-decoration-color: #85559b;
 }
 
 .container {
@@ -187,6 +187,9 @@ body {
 .experiences__company-header-durability {
   color: var(--durability-text-color);
   text-align: left;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 10px;
   margin-bottom: 10px;
   font-size: 15px;
 }
